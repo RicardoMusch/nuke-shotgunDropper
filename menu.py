@@ -1,0 +1,4 @@
+import nuke
+
+import ShotGunDropper
+nukescripts.addDropDataCallback(ShotGunDropper.dropSG)
